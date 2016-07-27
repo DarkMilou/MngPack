@@ -11,7 +11,7 @@
     "manifestType": "minecraftModpack",
     "manifestVersion": 1,
     "name": "MNG Pack",
-    "version": "MNG Pack v1.0.0",
+    "version": "1.0.1",
     "author": "DarkMilou",
     "projectID": 247961,
     "files": [
@@ -413,6 +413,11 @@
         {
             "projectID": 70496,
             "fileID": 2313907,
+            "required": true
+        },
+        {
+            "projectID": 239431,
+            "fileID": 2312807,
             "required": true
         }
     ]
